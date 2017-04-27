@@ -8,3 +8,6 @@
 ### b1: clone file về máy
 ### b2: mở terminal chứa file text.py
 ### b3: gõ `python text.py` để chạy chương trình
+
+Kết quả:   
+<image src="./kq.png" >
